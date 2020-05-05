@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kerstin Stahl
+title: Environmental Hydro Systems
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor
+role: ""
 
 # Organizations/Affiliations
 organizations:
